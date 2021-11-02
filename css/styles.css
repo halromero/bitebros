@@ -1,0 +1,108 @@
+* {
+  box-sizing: border-box;
+}
+
+.bg {
+  background-image: url('images/bg-image.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}
+
+nav{
+  font-family: caviar dreams;
+  position: fixed;
+}
+
+h1{
+  font-family: Another Typewriter;
+  font-weight: bold;
+  font-size: 70px;
+  padding-top: 2%;
+}
+
+h2{
+  font-family: Biko;
+}
+
+h3{
+  font-family: Biko;
+}
+
+.def{
+  font-family: Biko;
+}
+
+.carousel-inner{
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.tacos-takoyaki, .chili-dog-potato-ball{
+  position: relative;
+  padding-left: 1%;
+  padding-right: 1%;
+  display: flex;
+}
+
+.column {
+  width: 70%;
+}
+
+.tacos{
+  color: white;
+  position: absolute;
+  bottom: 50px;
+  left: 450px;
+  text-align: center;
+}
+
+.takoyaki{
+  color: white;
+  position: absolute;
+  bottom: 50px;
+  right: 450px;
+  text-align: center;
+}
+
+.chili-dog{
+  color: white;
+  position: absolute;
+  bottom: 50px;
+  left: 450px;
+  text-align: center;
+}
+
+.potato-balls{
+  color: white;
+  position: absolute;
+  bottom: 50px;
+  right: 450px;
+  text-align: center;
+}
+
+.order-button{
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.button{
+  background-color: #0F4C75;
+  font-family: Biko;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.footer{
+  line-height: 80px;
+  font-family: Biko;
+  color: black;
+  font-size: 25px;
+}
