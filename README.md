@@ -1,6 +1,6 @@
 # bitebros
 
-An activity for CPE Web Development and Design using HTML, CSS, and Bootstrap. The food brand/company along with the tagline are made up.
+An activity for CPE Web Development and Design using HTML, CSS, and Bootstrap. The food brand or company along with the tagline are made up. Any similarity to actual brand or company is purely coincidental.
 
 Image sources:
   https://www.japanesecooking101.com/takoyaki-recipe/
